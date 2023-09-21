@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Website</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="section section1">
+        <!-- Content for the first section with a background color -->
+    </div>
+    <div class="section section2">
+        <!-- Content for the second section with a different background color -->
+    </div>
+    <div class="section section3">
+        <!-- Content for the third section with a third background color -->
+    </div>
+    <div class="image-container">
+        <!-- Add your image here -->
+        <img src="your-image.jpg" alt="Your Image">
+    </div>
+    <div class="contact-me">
+        <!-- Contact Me slide content goes here -->
+    </div>
+</body>
+</html>
