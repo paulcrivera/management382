@@ -1,0 +1,24 @@
+/* Apply background colors to sections */
+.section1 {
+    background-color: #ff5733; /* Replace with your color */
+}
+
+.section2 {
+    background-color: #33ff57; /* Replace with your color */
+}
+
+.section3 {
+    background-color: #5733ff; /* Replace with your color */
+}
+
+/* Style the image container */
+.image-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Style the "Contact Me" section */
+.contact-me {
+    background-color: #f0f0f0; /* Replace with your color */
+    padding: 20px;
+}
